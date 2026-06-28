@@ -2,4 +2,4 @@
 
 test
 
-başka arkadaş kod
+baska arkadas kod
